@@ -3,6 +3,10 @@
 
 <img src="https://imgur.com/a/6qJyIAK" alt="avatar" width="150" style="border-radius: 50%">
 
+<p align="center">
+  <img src="https://imgur.com/a/6qJyIAK" width="960" alt="dagu-logo">
+</p>
+
 ## 🧑 Thông tin cá nhân
 
 - 🎓 Sinh viên ngành **Bảo đảm An toàn Thông tin**
