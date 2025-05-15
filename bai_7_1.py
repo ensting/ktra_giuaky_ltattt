@@ -22,4 +22,4 @@ while True:
     # tạm dừng 1 giây trước khi kiểm tra lại
     sleep(1)
 
-#tin2004@gmail.com
+#tin2004@gmail.com john.doe_23@mail.com
